@@ -1,6 +1,7 @@
 Header: This file was made by Dan
 
 This file will be our root commit
+This line is vitally important to our project
 We add another line for our second commit
 and we continue working linearly adding a third line
 
