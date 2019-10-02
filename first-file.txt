@@ -1,2 +1,5 @@
 This file will be our root commit
+in this branch we will hack at our file
+we are not sure if we are going to want to keep the results or not
+and for this reason, we have "spun out a new branch"
 We add another line for our second commit
