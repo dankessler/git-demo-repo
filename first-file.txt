@@ -1,2 +1,4 @@
+Header: This file was made by Dan
+
 This file will be our root commit
 We add another line for our second commit
