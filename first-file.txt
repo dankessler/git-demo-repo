@@ -2,5 +2,8 @@ Header: This file was made by Dan
 
 This file will be our root commit
 This line is vitally important to our project
+in this branch we will hack at our file
+we are not sure if we are going to want to keep the results or not
+and for this reason, we have "spun out a new branch"
 We add another line for our second commit
 and we continue working linearly adding a third line
